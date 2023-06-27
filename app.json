@@ -1,0 +1,33 @@
+{
+  "id": "4af39c6e-39e5-46f6-a4a4-f975afd37514",
+  "name": "AI Fin Guru",
+  "publisher": "Katson.com",
+  "version": "1.0.0.0",
+  "brief": "Simplifying financial reports with AI-powered explanations at your fingertips",
+  "description": "AI Fin Guru is a cutting-edge app that harnesses the power of artificial intelligence to provide intuitive and expert explanations of your financial reports. With its advanced chat-based interface, you can effortlessly gain valuable insights and understand the complexities of your financial data. Whether you're a business professional or an individual seeking financial clarity, AI Fin Guru is your trusted companion for unlocking the secrets hidden within your reports. Say goodbye to confusion and let AI Fin Guru guide you towards informed financial decisions with ease",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "22.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "11.0",
+  "features": [
+    "NoImplicitWith"
+  ],
+  "contextSensitiveHelpUrl": "https://katson.com/blog/"
+}
